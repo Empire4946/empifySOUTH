@@ -1,5 +1,0 @@
-hookfunction(game.GetDescendants, function()
- return wait(9e9)
-end);
-
--- ez bypas

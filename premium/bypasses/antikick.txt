@@ -1,7 +1,0 @@
-local bruh
-bruh = hookmetamethod(game.Players.LocalPlayer, "__namecall", function(...)
-    if getnamecallmethod() == "Kick" then return wait(9e8) end
-    return f(...)
-end)
-
--- if math.huge, might cause crashes
