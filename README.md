@@ -2,7 +2,7 @@
 <h3 align="center">Next Generation Hub.</h3>
 
 ## What's EmpifySOUTH?
-A script-hub that spoofs everything you need.
+A script-hub where it is all about perfection.
 
 ## Supported Games
 
